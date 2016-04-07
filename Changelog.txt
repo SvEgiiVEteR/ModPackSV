@@ -1,3 +1,260 @@
+xx.xx.2016
+
+Большая часть модов из спика ниже обновлена, некоторые удалены.(так как были переделаны частично имена модов и категории,
+пока сложно сказать какие.)
+пересобраны конфиги. убраны ранее имеюющиеся конфликты.
+и почти готов сервер.
+ИГРА НА СТАРОЙ КАРТЕ НЕВОЗМОЖНА!!!!!!!!
+
+Версия 1.9.1
+Добавлено:
+
+************************************
+
+Обновлено:
+
+************************************
+1CodeChickenCore-1.7.10-1.0.7.46-universal.jar
+CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+Eureka-1.7.10-3.0.1.jar
+ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+ForgeRelocation-0.0.1.3-universal.jar
+malisiscore-1.7.10-0.12.5.jar
+malisisdoors-1.7.10-1.9.3.jar
+ShadersModCore-v2.3.28-mc1.7.10-f.jar
+slick-util-0.0b9db0b2.jar
+vorbis-java-core-0.8-20150201.161816-1.jar
+vorbis-java-tika-0.7.jar
+vorbis-java-tools-0.7.jar
+
+0_betterrain-1.7.2-1.7.10.15.jar
+0_betterrain-1.7.2-1.7.10.15-core.jar
+0_gregtech_1.7.10-5.08.24.jar
+0LIB_MrTJPCore-1.1.0.27-universal.jar
+1_0_4Space-4.1.9.jar
+1_0_Galacticraft-Planets-1.7-3.0.12.350.jar
+1_0_GalacticraftCore-1.7-3.0.12.350.jar
+1_0_MicdoodleCore-1.7-3.0.12.350.jar
+1_1_TConstruct-1.7.10-1.8.5.jar
+1_1_TMechworks-1.7.10-0.2.14.100.jar
+1_Fossils_Archeology_Revival-1.7.1Build-7.1.jar
+2_0_ABO-MC1.7.10-BC7-release3.0.1.jar
+2_0_additionalpipes-4.6.0.jar
+2_0_buildcraft-7.0.15.jar
+2_0_buildcraft-compat-7.0.9.jar
+2_0_BuildcraftAdditions-1.7.10-2.2.0.jar
+2_0_logisticspipes-0.10.0.5.jar
+2_1_IC2NuclearControl-2.2.5a-GoingForTheKill.jar
+2_1_IMI_adv-repulsion-systems-59.0.3.jar
+2_1_industrialcraft-2-2.2.689-experimental.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Base.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Compat.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Fabrication.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Integration.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Lighting.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-Mechanical.jar
+2_2_ProjectRed-1.7.10-4.7.0pre5.89-World.jar
+2_3_Mekanism-1.7.10-8.1.5.246.jar
+2_3_MekanismGenerators-1.7.10-8.1.5.246.jar
+2_3_MekanismTools-1.7.10-8.1.5.246.jar
+2_4_MineFactoryReloaded-[1.7.10]2.8.0-104.jar
+2_5_autopackager-1.5.4.jar
+2_5_EnderTech-1.7.10-0.3.2.388.jar
+2_5_SolarFlux-1.7.10-0.8a.jar
+2_5_ThermalDynamics-[1.7.10]1.1.0B2-149.jar
+2_5_ThermalExpansion-[1.7.10]4.0.2B2-210.jar
+2_5_ThermalFoundation-[1.7.10]1.2.0B1-95.jar
+2_6_bd_ae2stuff-0.4.2.43-mc1.7.10.jar
+2_6_ExtraCells-1.7.10-2.2.73b129.jar
+2_7_ImmersiveEngineering-0.4.0.jar
+2_7_immersiveintegration-0.4.0.jar
+2_8_OpenComputers-MC1.7.10-1.5.14.30-universal.jar
+2_8_OpenPrinter-MC1.7.10-0.1.0.117.jar
+2_8_OpenSecurity-1.0-47.jar
+2_9_EnderIO-1.7.10-2.2.8.381.jar
+2_11_PneumaticCraft-1.7.10-1.9.2-88-universal.jar
+2_12_LIB_PlanetguyLib-1.5.jar
+2_16_Metallurgy-1.7.10-4.0.8.97.jar
+2_16_MetallurgyCore-1.7.10-4.0.4.18.jar
+2_bd_compacter-0.1.2.8-mc1.7.10.jar
+2_bd_generators-0.9.14.89-mc1.7.10.jar
+2_bd_pressure-1.2.1.108-mc1.7.10.jar
+2_compactmachines-1.7.10-1.20.jar
+2_Factorization-1.7.10-0.8.95.jar
+2_Pistronics2-v0.5.8.jar
+2_PowerConverters-1.7.13.3.0-jenkins.74.jar
+2_Railcraft_1.7.10-9.6.1.0.jar
+2_RefinedRelocation-1.7.10-1.0.8b.jar
+2_StevesAddons-1.7.10-0.10.13.jar
+2_Translocator-1.7.10-1.1.2.15-universal.jar
+3_1_2_TravellersGear-1.7.10-1.16.4.jar
+3_1_2_WitchingGadgets-1.7.10-1.1.9.jar
+3_1_Automagy-1.7.10-0.26.jar
+3_1_ElectroMagicTools-1.7.10-2.0.0Alpha-28.jar
+3_1_Forbidden Magic-1.7.10-0.57.jar
+3_1_ThaumcraftMobAspects-1.7.2-2A.jar
+3_1_ThaumicExploration-1.7.10-1.1-52.jar
+3_1_thaumichorizons-1.7.10-1.1.6.jar
+3_1_ThaumicTinkerer-2.5-1.7.10-164.jar
+3_8_BloodMagic-1.7.10-1.3.3-4.jar
+3_AM2-1.4.0.008.jar
+3_Reliquary-1.2.jar
+4_0_growthcraft-apples-1.7.10-2.1.0.jar
+4_0_growthcraft-bamboo-1.7.10-2.1.0.jar
+4_0_growthcraft-bees-1.7.10-2.1.0.jar
+4_0_growthcraft-cellar-1.7.10-2.1.0a.jar
+4_0_growthcraft-core-1.7.10-2.1.0a.jar
+4_0_growthcraft-fishtrap-1.7.10-2.1.0a.jar
+4_0_growthcraft-grapes-1.7.10-2.1.0.jar
+4_0_growthcraft-hops-1.7.10-2.1.0.jar
+4_0_growthcraft-rice-1.7.10-2.1.0a.jar
+4_1_bd_gendustry-1.5.2.107-mc1.7.10.jar
+4_1_forestry_1.7.10-3.6.2.19.jar
+4_1_magicbees-1.7.10-2.3.2.jar
+4_2_Botania r1.7-201.jar
+4_3_Enchiridion 2-1.7.10-2.0.1.jar
+4_3_Mariculture-Deluxe-1.7.10-1.2.4.2a.jar
+4_5_Pam's HarvestCraft 1.7.10i.jar
+4_MmmMmmMmmMmm-1.6.jar
+4_natura-1.7.10-2.2.0.1.jar
+5_0_BiblioCraft[v1.10.4][MC1.7.10].jar
+5_0_BiblioWoods[Natura][v1.5].jar
+5_1_Jukebox-Reloaded-1.7.10-3.0.3-universal.jar
+5_2_Carpenter's Blocks v3.3.6 - MC 1.7.10.jar
+5_betterrecords-1.7.10-1.1.9.jar
+5_Decocraft-2.0.1.7.10.jar
+5_GardenStuff-1.7.10-1.6.3.jar
+5_MrCrayfishFurnitureModv3.4.7.jar
+5_musiccraft-2.9.8.3.jar
+6_0_SecurityCraft v1.7.4.1.jar
+6_1_ModularPowersuits-0.11.0.7-QMX.jar
+6_1_ModularPowersuitsAddons-0.11.0.7-QMX.jar
+6_1_Numina-0.4.0.7-QMX.jar
+6_2_weaponmod-1.14.3.jar
+6_3_ICBM-1.7.10-2.4.0b253-dev.jar
+6_3_VolzEngine-1.7.10-0.3.3b16.jar
+6_6_6_MB_Battlegear2-Bullseye-1.0.8.0.jar
+6_clockworkphase-1.7.11.0f.jar
+6_Flans Mod-1.7.10-4.10.0.jar
+6_OpenModularTurrets-1.7.10-2.0.1-137.jar
+6_PortalGun-4.0.0-beta-5.jar
+6_RedstoneArsenal-[1.7.10]1.1.1B1-85.jar
+7_1_MCA-5.0.6.1-1.7.10-universal.jar
+7_1_RadixCore-2.0.2-1.7.10-universal.jar
+7_2_LIB_IvToolkit-1.2.jar
+7_2_RecurrentComplex-0.9.6.2.jar
+7_DoomlikeDungeons-1.7.6-MC1.7.10.jar
+7_HardcoreEnderExpansion  MC-1.7.10  v1.8.2.jar
+7_MoVillages-1.3.1.jar
+7_Revamp-1.3.1.jar
+7_roguelike-1.7.10-1.3.6.3.jar
+7_runicdungeons-1.1.5c.jar
+8_1_OpenBlocks-1.7.10-1.4.3.jar
+8_1_OpenModsLib-1.7.10-0.7.3.jar
+8_2_1_ChiselTones-1.7.10-1.0-1.jar
+8_2_Chisel2-2.4.1.40.jar
+8_2_MoreChisels-1.7.10-1.0-20.jar
+8_AOBD-2.7.1.jar
+9_1_ArchimedesShips-1.7.1.jar
+9_LanteaCraft-1.7.10-70.jar
+9_SimplyJetpacks-MC1.7.10-1.5.1.jar
+9_WoodStuff-1.0.1.jar
+ADMIN_MobiusCore-1.2.5_1.7.10.jar
+ADMIN_Opis-1.2.5_1.7.10.jar
+ADMIN_UpdateCheckerMod-1.7.10.jar
+Aroma1997Core-1.7.10-1.0.2.14.jar
+Aroma1997sBackup-1.7.10-0.0.0.5.jar
+BIOM_AncientTrees-1.7.10-1.6.2.jar
+BIOM_BiomesOPlenty-1.7.10-2.1.0.1364-universal.jar
+BIOM_DimensionalDoors-2.2.5-test8.jar
+BIOM_mystcraft-1.7.10-0.12.1.00.jar
+DeathCounter-4.0.0.jar
+Flaxbeard'sSteamPower-1.7.10-0.28.7.jar
+FPS_0_BetterFps-1.0.1.jar
+FPS_0_fastcraft-1.22-ctest10.jar
+FPShd_OptiFine_1.7.1HD_U_C1.jar
+FullscreenWindowed-1.7.10-1.0.0.jar
+GEN_ATG-1.7.10-0.12.0.jar
+GEN_BigTrees-172b-forge1060.jar
+GEN_GUI_DefaultWorldGenerator-1.7.10-0.1-b13-client.jar
+GUI_1_S_SmartMoving-1.7.10-15.5.jar
+GUI_1_SmartRender-1.7.10-2.1.jar
+GUI_InventoryTweaks-1.59-dev-156.jar
+GUI_MouseTweaks-2.4.4-mc1.7.10.jar
+GUImap_voxelMap_1.5.15_for_1.7.10.litemod
+GUIsou_mod_MAtmos_29ub4_mc1.7.10.litemod
+GUIsou_SoundFilters-0.8_for_1.7.X.jar
+INFO_GUI_2_S_EnderCore-1.7.10-0.0.1.1alpha.jar
+INFO_GUI_2_S_Waila-1.5.11.7.10.jar
+INFO_GUI_2_S_WailaHarvestability-mc1.7.x-1.1.2-client.jar
+INFO_GUI_2_S_WAILAPlugins-MC1.7.10-0.1.0-16.jar
+INFO_GUI_2_S_Wawla-1.3.1-1.7.10.jar
+INFO_GUI_3_S_bd_neiaddons-1.12.10.33-mc1.7.10.jar
+INFO_GUI_3_S_NEIIntegration-MC1.7.10-1.0.11-client.jar
+INFO_GUI_3_S_NEIPlugins-MC1.7.10-1.1.0.11-unofficial.jar
+INFO_GUI_3_S_NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+INFO_GUI_3_S_NotEnoughResources-1.7.10-0.1.0.101.jar
+INFO_GUI_3_S_thaumcraftneiplugin-1.7.10-1.7a-client.jar
+INFO_GUI_S_BetterLoadingScreen-1.3.2.jar
+INFO_INFO2_ADMIN_InGameInfoXML-1.7.10-2.8.1.80-universal.jar
+INFO_INFO2_ADMIN_LIB_LunatriusCore-1.7.10-1.1.2.21-universal.jar
+INFO_INFO2_GUI_ArmorStatusHUD-client-1.28.jar
+INFO_INFO2_GUI_BetterHorseHud-1.7.10-1.0.jar
+INFO_INFO2_GUI_DamageIndicatorsMod-3.2.3.jar
+INFO_INFO2_GUI_StatusEffectHUD-client-1.27.jar
+INFO_INFO3_LIB_C_SpACore-1.7.10-01.05.06.00.jar
+KEY_GUI_NotEnoughKeys-1.7.10-1.0.0b29.jar
+LIB_AsieLib-1.7.10-0.4.2.jar
+LIB_bd_bdlib-1.9.0.94-mc1.7.10.jar
+LIB_CoFHCore-[1.7.10]3.0.3-303.jar
+LIB_IMI_immibis-core-59.1.1.jar
+LIB_Mantle-1.7.10-0.3.2.jar
+LIB_PlayerAPI-1.7.10-1.3.jar
+MC+ API.jar
+MC+ BattleHearts - v1.1.1.jar
+MC+ Cart - v1.3.0.jar
+MC+ Reforestation - v1.0.2.jar
+MC+ Region - v1.2.0.jar
+MC+ Rotten - v1.0.2.jar
+MC+ Wheel - v1.1.2.jar
+MENUres_GUI_BetterTitleScreen-1.7.10-1.1.jar
+MENUres_GUI_CustomMainMenu-MC1.7.10-1.6.jar
+MENUres_GUI_ResourceLoader-1.2.jar
+MOB_AttachableGrinder-4.0.0.jar
+MOB_C_BabyAnimals-1.7.10-2-client.jar
+MOB_ChocoCraft-4.1.5.jar
+MOB_DogeMod_0.5.[1.7.10].jar
+MOB_EnderZoo-1.7.10-1.0.11.28.jar
+MOB_Morph-Beta-0.9.1.jar
+MultiMine-1.7.10.jar
+PACK_adventurebackpack-1.7.10-0.8b.jar
+PACK_BetterStorage-1.7.10-0.13.1.126.jar
+PACK_EnderStorage-1.7.10-1.4.7.36-universal.jar
+RenderPlayerAPI-1.7.10-1.3.jar
+RES_GUI_S_FastLeafDecay-1.7.10-1.1.jar
+RES_GUI_S_RES_GUI_S_Treecapitator-universal-2.0.4.jar
+Shatter-4.0.0-client.jar
+StartingInventory-universal-1.7.10.r03.jar
+TWE_0_ClientFixer-1.0.jar
+TWE_0_NoMoreRecipeConflict-0.2(1.7.10).jar
+TWE_1_KoreSample-1.7.10-1.3.2.jar
+TWE_LegacyJavaFixer-1.0.jar
+TWE_LIB_INpureCore-[1.7.10]1.0.0B9-62.jar
+TWE_notimefix-2.1.0.jar
+TWE_Ping-1.7.X-1.0.2.B6-universal.jar
+Zstatis_OpenEye-0.6-1.7.10.jar
+************************************
+
+
+Удалено:
+
+************************************
+
+Временно удалены:
+
+************************************
+
+==========================================================
 14.07.2015
 
     Пере собран инсталлятор. Добавлены опции на выбор: Моды оружия, индустриальные моды и пр.
@@ -7,6 +264,7 @@
     Проведена повторная оптимизация.
     Удалены конфликтные и нагружающие моды.
 
+==========================================================
 Версия 1.9
 Добавлено:
 
@@ -48,7 +306,7 @@
     MineTweakerRecipeMaker-1.7.10-1.1.0.11
     ModTweaker 2-0.8.2
 
-[свернуть]
+==========================================================
 13.07.2015
 
     Внесены правки в MultiMine
@@ -224,7 +482,7 @@
         GUI_[1.7.10]BetterFonts1.1.4.jar
         GUI_journeymap-1.7.10-5.1.0-unlimited.jar
 
-[свернуть]
+==========================================================
 03.05.2015
 
     Настроена конфигурация мода Millenaire
@@ -257,7 +515,7 @@
     Memory Cleaner – не корректно работает.
     Custom Ore Gen – Временно удалён пока не будет полностью настроен.
 
-[свернуть]
+==========================================================
 29.04.2015
 
     Возвращены шейдеры в сборку!
@@ -423,7 +681,7 @@
     MineFactoryReloaded-CompatMagicalCrops
     ProjectRed-1.7.10-4.5.16.77-Mechanical_beta
 
-[свернуть]
+==========================================================
 17.03.2015
 
     Перенастроен пакет ресурсов! Теперь шрифты и главное меню подгружается вне зависимости от выбранного текстурного пака! Только если он не заменяет оригинальный шрифт.
@@ -482,7 +740,7 @@
     LNumina-0.4.0.7-QMX - (Временно удалён)
     Warp book – v2.0.36 (Заменён на Transport Terminals).
 
-[свернуть]
+==========================================================
 09.03.2015
 Версия 1.4
 
@@ -508,7 +766,7 @@
     Progressive Automation – v1.5.24
     Mill?naire – (Удалён по причине нерабочих сундуков!) Проблема будет решена в последующих версиях!
 
-[свернуть]
+==========================================================
 09.03.2015
 Новая переработанная и улучшенная версия 1.3!
 Переход на новый лаунчер так и не прошёл положительные тесты, и лишь доказал что MULTIMC нормально справляется с своими задачами. Хоть и немного доставляет неудобства на некоторых системах! На данный момент сборка будет поставляться без шейдеров, и текстур паков! Так как надо настроить самое важное, а уже потом заниматься красотой и шейдерами. Если кто хочет, сохраните с последней версии 1.2 папки c шейдарами и текстуры, кроме папки Pet9948 в resourcepacks. Иначе главное меню не будет отображаться должным образом!.
