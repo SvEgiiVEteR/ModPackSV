@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 clouds:true
-resourcePacks:["TEXTYRfix.zip","Decocraft_Template_TexturePackV2.2.1.zip","HEE Music v1.0.zip","msi_conversion.zip","RUS-Minecraft-Portal.zip"]
+resourcePacks:["TEXTYRfix.zip","Decocraft_Template_TexturePackV2.2.1.zip","HEE Music v1.0.zip","matmos-rhapsodia-0.6.zip","F32-1.7.10fixRUS.zip","RUS-Minecraft-Portal.zip"]
 lastServer:
 lang:ru_RU
 chatVisibility:0
@@ -64,7 +64,7 @@ key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:28
-key_key.playerlist:20
+key_key.playerlist:37
 key_key.pickItem:-98
 key_key.command:53
 key_key.screenshot:60
@@ -99,7 +99,7 @@ key_Special:208
 key_Pneumatic Helmet Options:49
 key_Pneumatic Helmet Hack:35
 key_Pneumatic Helmet Debugging Drone:21
-key_Gravi Fly Key:34
+key_Gravi Fly Key:33
 key_Gravi Display Hud:0
 key_Tool Increase:0
 key_Tool Decrease:0
@@ -112,24 +112,32 @@ key_key.party:0
 key_key.next:0
 key_key.prev:0
 key_key.openCompendium:80
-key_key.archimedes.up:0
-key_key.archimedes.down:0
-key_key.archimedes.brake:0
-key_key.archimedes.align:0
-key_key.archimedes.decompile:0
-key_key.archimedes.shipinv:0
-key_simplyjetpacks.keybind.toggle.primary:34
+key_key.archimedes.up:46
+key_key.archimedes.down:45
+key_key.archimedes.brake:29
+key_key.archimedes.align:205
+key_key.archimedes.decompile:44
+key_key.archimedes.shipinv:203
+key_simplyjetpacks.keybind.toggle.primary:33
 key_simplyjetpacks.keybind.toggle.secondary:0
 key_simplyjetpacks.keybind.mode.primary:46
 key_simplyjetpacks.keybind.mode.secondary:0
 key_simplyjetpacks.keybind.openPackGUI:22
 key_igwmod.keys.wiki:77
 key_ingameinfoxml.key.toggle:211
+key_HorseInfo:0
+key_schematica.key.load:181
+key_schematica.key.save:55
+key_schematica.key.control:74
+key_schematica.key.layerInc:0
+key_schematica.key.layerDec:0
 key_Quest Log:0
-key_MoCreatures Dive:33
+key_MoCreatures Dive:34
 key_MoCreatures GUI:0
-key_key.betterquesting.quests:26
+key_key.betterquesting.quests:71
 key_RecipeSwitch:0
+key_wecui.keys.toggle:52
+key_wecui.keys.clear:51
 key_Show force-loaded chunks:79
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:0
@@ -142,15 +150,15 @@ key_key.tbelt:48
 key_key.tzoom:0
 key_Baubles Inventory:0
 key_Change Wand Focus:38
-key_Activate Hover Harness:34
+key_Activate Hover Harness:33
 key_Misc Wand Toggle:39
 key_[GC] Галактическая карта:181
-key_[GC] Открыть инвентарь космического корабля:33
+key_[GC] Открыть инвентарь космического корабля:34
 key_[GC] Переключить режим очков с сенсорами:49
 key_Mekanism Переключить режим предмета:39
-key_Mekanism Переключить режим брони:34
+key_Mekanism Переключить режим брони:33
 key_Mekanism Голос:22
-key_Переключить планер:34
+key_Переключить планер:33
 key_Звуколокатор:35
 key_Ночное зрение:49
 key_Очки откровения:21
@@ -160,7 +168,7 @@ key_Прыжок:0
 key_Режим ключа Yeta:0
 key_Переключить электромагнит:0
 key_Open MPS Keybind GUI:-1
-key_Go Down (MPS Flight Control):34
+key_Go Down (MPS Flight Control):33
 key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):0
@@ -168,6 +176,7 @@ key_Cosmetic (MPS):-1
 key_key.lasers:0
 key_key.materialCosts:56
 key_key.clipboardPaste:210
+key_Zoom using monocle:49
 key_key.craftingGrid:0
 key_key.openRadial:0
 key_TG.keybind.openInv:0
@@ -180,14 +189,16 @@ key_Change Arcane Lens:0
 key_Activate Morphic Fingers:0
 key_Toggle Spider Climb:0
 key_Toggle Chameleon Skin:0
-key_ttmisc.toggleArmor:34
+key_ttmisc.toggleArmor:33
 key_pe.key.armor_toggle:0
 key_pe.key.charge:0
 key_pe.key.extra_function:40
 key_pe.key.fire_projectile:38
 key_pe.key.mode:39
-key_ComputerArmorBoost:34
+key_ComputerArmorBoost:33
 key_ComputerArmorNightVision:49
+key_Переключить пукание:0
+key_Открыть продвинутый верстак:0
 key_key.betterconfig.desc:81
 key_key.fart.desc:0
 key_key.cameraNext:0
@@ -200,10 +211,20 @@ key_key.climb:46
 key_key.config.toggle:67
 key_key.speed.increase:0
 key_key.speed.decrease:0
-key_invtweaks.key.sort:19
+key_invtweaks.key.sort:20
 key_Перезагрузить конфигурацию:0
 key_Добавить/удалить пользоват. конфигурацию:0
 key_Меню Enviromine:0
+key_key.mw_open_gui:74
+key_key.mw_new_marker:41
+key_key.mw_next_map_mode:43
+key_key.mw_next_marker_group:0
+key_key.mw_teleport:0
+key_key.mw_zoom_in:13
+key_key.mw_zoom_out:12
+key_key.mw_underground_mode:22
+key_key.portaitreposition:72
+key_WorldEdit Reference:73
 key_key.llor.hotkey:207
 key_key.placetorch:0
 key_key.betterstorage.backpackOpen:0
@@ -222,6 +243,9 @@ key_key.AuraCustomization:0
 key_key.ToggleManaDisplay:0
 key_key.ActivateAffinityAbility:0
 key_enchiridion.key.wiki:76
+key_Variable Debug:0
+key_Sheet Debug:0
+key_Turn Off Debug:0
 key_key.betterfoliage.gui:0
 key_key.journeymap.map_toggle:74
 key_key.journeymap.zoom_in:13
@@ -232,14 +256,24 @@ key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:41
 key_key.macros:0
 key_key.macro_override:0
+key_key.minimap.voxelmapmenu:74
+key_key.minimap.waypointhotkey:41
+key_key.minimap.zoom:13
+key_key.minimap.togglefullscreen:12
+key_key.minimap.togglemobs:0
 key_MAtmos:65
 key_XRay GUI:36
 key_Fly Speed +:0
 key_Fly Speed -:0
 key_Fullbright:0
-key_XRay:-96
+key_XRay:0
 key_Cave Finder:0
-key_OREchek2:-97
+key_clean:0
+key_struk2:254
+key_seach:0
+key_ruda2:253
+key_MineDirt:0
+key_greg:0
 soundCategory_master:0.40397352
 soundCategory_music:0.3943662
 soundCategory_record:1.0
