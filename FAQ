@@ -58,7 +58,7 @@ minecraft-Games_sborka\------(имя и место папки где будет 
 \settingsSET\SET_memory.ini                                                                                                      ||
 \settingsSET\SET_PermSize.ini                                                                                                    ||
 для выбора версии Java редактируем 1 строчку в \settings\SETTINGS.ini                                                            ||
-Гтово!! запускаем MinecraftPortableCMD.bat                                                                                       ||
+|||||||||||||||||||||||||||||||||||||||||||||||||Готово!! запускаем MinecraftPortableCMD.bat|||||||||||||||||||||||||||||||||||||||
                                                                                                                                  ||
 моды и конфиги от других сборок или нашей с pet99488 нужно положить суда:                                                        ||
 \.minecraft\config\                                                                                                              ||
