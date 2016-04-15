@@ -10,10 +10,10 @@ xx.xx.2016
 Добавлено.удалено:
 
 ************************************
-1_0_4Space-4.1.9.jar
-2_16_Metallurgy-1.7.10-4.0.8.97.jar
-2_16_MetallurgyCore-1.7.10-4.0.4.18.jar
-4_3_Mariculture-Deluxe-1.7.10-1.2.4.2a.jar
+1_0_4Space-4.1.9.jar  удалён есть лучше
+2_16_Metallurgy-1.7.10-4.0.8.97.jar удалён много лишнего
+2_16_MetallurgyCore-1.7.10-4.0.4.18.jar удалён лишнего
+4_3_Mariculture-Deluxe-1.7.10-1.2.4.2a.jar удалён баг
 4_MmmMmmMmmMmm-1.6.jar
 5_0_BiblioWoods[Natura][v1.5].jar
 6_3_ICBM-1.7.10-2.4.0b253-dev.jar
@@ -23,15 +23,12 @@ xx.xx.2016
 7_Revamp-1.3.1.jar
 9_LanteaCraft-1.7.10-70.jar
 9_WoodStuff-1.0.1.jar
-ADMIN_MobiusCore-1.2.5_1.7.10.jar
-ADMIN_Opis-1.2.5_1.7.10.jar
 ADMIN_UpdateCheckerMod-1.7.10.jar
 BIOM_AncientTrees-1.7.10-1.6.2.jar
 DeathCounter-4.0.0.jar
-Flaxbeard'sSteamPower-1.7.10-0.28.7.jar
 FPS_0_BetterFps-1.0.1.jar
 FullscreenWindowed-1.7.10-1.0.0.jar
-GEN_ATG-1.7.10-0.12.0.jar
+GEN_ATG-1.7.10-0.12.0.jar удалён заменён на RTG + CC
 GEN_BigTrees-172b-forge1060.jar
 INFO_GUI_3_S_NEIPlugins-MC1.7.10-1.1.0.11-unofficial.jar
 MC+ API.jar
@@ -41,8 +38,8 @@ MC+ Reforestation - v1.0.2.jar
 MC+ Region - v1.2.0.jar
 MC+ Rotten - v1.0.2.jar
 MC+ Wheel - v1.1.2.jar
-MENUres_GUI_CustomMainMenu-MC1.7.10-1.9.2.jar
-MENUres_GUI_ResourceLoader-MC1.7.10-1.3.jar
+MENUres_GUI_CustomMainMenu-MC1.7.10-1.9.2.jar добавит пет
+MENUres_GUI_ResourceLoader-MC1.7.10-1.3.jar добавит пет
 MOB_AttachableGrinder-4.0.0.jar
 MOB_C_BabyAnimals-1.7.10-2-client.jar
 MOB_ChocoCraft-4.1.5.jar
@@ -96,6 +93,7 @@ malisisdoors-1.7.10-1.13.2.jar
 2_2_ProjectRed-1.7.10-4.7.0pre12.95-World.jar
 2_3_Mekanism-1.7.10-8.1.9.267.jar
 2_3_MekanismGenerators-1.7.10-8.1.9.267.jar
+2_Flaxbeard'sSteamPower-1.7.10-0.28.7.jar
 2_3_MekanismTools-1.7.10-8.1.9.267.jar
 2_4_MineFactoryReloaded-[1.7.10]2.8.1-174-R.jar
 2_5_autopackager-1.5.9a.jar
@@ -218,6 +216,8 @@ INFO_GUI_3_S_NEIIntegration-MC1.7.10-1.1.2.jar
 INFO_GUI_3_S_NotEnoughItems-1.7.10-1.0.5.120-universal.jar
 INFO_GUI_3_S_NotEnoughResources-1.7.10-0.1.0-122.jar
 INFO_GUI_S_BetterLoadingScreen-1.3.9.jar
+ADMIN_MobiusCore-1.2.5_1.7.10.jar
+ADMIN_Opis-1.2.5_1.7.10.jar
 KEY_GUI_NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar
 LIB_AsieLib-1.7.10-0.4.5.jar
 LIB_bd_bdlib-1.9.4.109-mc1.7.10.jar
