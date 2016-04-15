@@ -2,7 +2,7 @@ sborkaSV
 
 Канал сборки с модами minecraft
 
-https://telegram.me/sborkaSV
+https://telegram.me/joinchat/CxH2Qj4TbNLzcv_-1LFCGg
 
 1. почему телеграм.
 2. 
