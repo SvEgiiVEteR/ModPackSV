@@ -12,13 +12,9 @@ https://telegram.me/sborkaSV
 
 https://yadi.sk/d/yFEdF8ZWqhac5
 
-  FAQ факью по сборке и лаунчера
-  
-  version.txt текущая версия сборки
-  
-  README.md файл который вы читаете
-  
-  options.txt конфиги сборки(клавиши)
-  
-  Changelog.txt история изминений
+1. FAQ факью по сборке и лаунчера
+2. version.txt текущая версия сборки
+3. README.md файл который вы читаете
+4. options.txt конфиги сборки(клавиши)
+5. Changelog.txt история изминений
   
