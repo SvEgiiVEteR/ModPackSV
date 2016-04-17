@@ -1,7 +1,11 @@
-корень Сборки - папка где лежат .minecraft\ settingsSET\ settings\ MinecraftPortableCMD.bat                                      ||
+корень Сборки - папка где лежат папки  ".minecraft" "settingsSET\" "settings\" и файл "MinecraftPortableCMD.bat"                 ||
 корень Игры - папка  .minecraft\                                                                                                 ||
 OL - Офицалный лаунчер                                                                                                           ||
 SL - Мой лаунчер(bat файл)                                                                                                       ||
+папка с крашами - \.minecraft\crash-reports\
+папка с логами - \.minecraft\logs\
+
+
 ---------------------------------------------------------------------------------------------------------------------------------||
 САМОЕ ВАЖНОE!!! в пути где лежит мой лаунчер или сборка не должно быть ПРОБЕЛОВ и русских БУКВ!!!
 
@@ -9,7 +13,9 @@ SL - Мой лаунчер(bat файл)                                        
 C:\Users\Сергей\Desktop\LAUNCHER\.minecraft\
 
 0. есть проблема с модом GEN_NatureOverhaul-0.10.0(1.7.10).jar и 5_musiccraft-2.9.9.3.jar
-вызывает краш вида https://gist.github.com/41c1821b5688c0cf8ffb8d641ca9d378. у вас 3 варинта
+вызывает краш вида https://gist.github.com/41c1821b5688c0cf8ffb8d641ca9d378. 
+крашь может появиться через 10 минут игры или 20. его можно ускорить, поджечь лес огнивом=)))
+у вас 3 варинта
 а) удалить 5_musiccraft-2.9.9.3.jar
 б) удалить GEN_NatureOverhaul-0.10.0(1.7.10).jar
 в) отредактировать natureoverhaul.cfg, ПОСЛЕ СОЗДАНИЯ МИРА И ВЫХОДА ИЗ НЕГО
@@ -37,6 +43,20 @@ C:\Users\Сергей\Desktop\LAUNCHER\.minecraft\
 ВАЖНО!! потом все что получилось копируем и сохроняем в файле natureoverhaulBP.cfg(бакап. SL при 
 запуске заменяет оригинальный natureoverhaul.cfg )
 это нужно для того что бы не редактировать каждый раз файл после закрытия игры.
+
+0. что бы сравнить генеарцию руд COG и стандартну пишем в чате по очереди.
+/cogEnableDebugging
+/cogWireframeMode
+/cogLoadConfig
+
+/cogEnableDebugging включает режи разработки
+/cogWireframeMode выключает визулные полосы руды в мире. что бы не мешались и не грузили FPS
+/cogLoadConfig загружаеть конфиг из папки вашего мира
+
+редактируем файл "saves\имя вашего мира\DIM0\CustomOreGen_Options.txt" 
+меняем COGActive=true на COGActive=false и пишем в чате /cogLoadConfig
+после этого генеарция руд будет по дефолту. меняем опять COGActive=true и пишем в чате /cogLoadConfig и руду будет генерировать COG
+
 
 1. если удалили некоторые моды в сборке то удалите папку .minecraft\config\JsonLootBags\ иначе игра не запуститься.
 2. игру запускать с правами адиминистратора
