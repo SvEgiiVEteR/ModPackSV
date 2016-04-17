@@ -13,9 +13,10 @@ https://telegram.me/joinchat/CxH2Qj4TbNLzcv_-1LFCGg
 
 https://yadi.sk/d/yFEdF8ZWqhac5
 
-1. FAQ факью по сборке и лаунчера
+1. FAQ факью по лаунчеру
 2. version.txt текущая версия сборки
 3. README.md файл который вы читаете
-4. options.txt конфиги сборки(клавиши)
-5. Changelog.txt история изминений
+4. FAQsborka факью по сборке
+5. options.txt конфиги сборки(клавиши)
+6. Changelog.txt история изминений
   
