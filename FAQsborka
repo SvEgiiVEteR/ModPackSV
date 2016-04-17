@@ -18,7 +18,7 @@ C:\Users\Сергей\Desktop\LAUNCHER\.minecraft\
 у вас 3 варинта
 а) удалить 5_musiccraft-2.9.9.3.jar
 б) удалить GEN_NatureOverhaul-0.10.0(1.7.10).jar
-в) отредактировать natureoverhaul.cfg, ПОСЛЕ СОЗДАНИЯ МИРА И ВЫХОДА ИЗ НЕГО
+в) отредактировать .minecraft\config\natureoverhaul.cfg ПОСЛЕ СОЗДАНИЯ МИРА И ВЫХОДА ИЗ НЕГО!!
 ищем(как исать не срашивать, в любом текстовом редакторе есть поиск) строчку в natureoverhaul.cfg вида:
 
     # Add group on new line
