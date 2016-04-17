@@ -1,9 +1,48 @@
+корень Сборки - папка где лежат .minecraft\ settingsSET\ settings\ MinecraftPortableCMD.bat                                      ||
+корень Игры - папка  .minecraft\                                                                                                 ||
+OL - Офицалный лаунчер                                                                                                           ||
+SL - Мой лаунчер(bat файл)                                                                                                       ||
+---------------------------------------------------------------------------------------------------------------------------------||
 САМОЕ ВАЖНОE!!! в пути где лежит мой лаунчер или сборка не должно быть ПРОБЕЛОВ и русских БУКВ!!!
 
 так НЕ праивльно:
 C:\Users\Сергей\Desktop\LAUNCHER\.minecraft\
 
-1. если удалили не которые моды в сборке то удалите папку .minecraft\config\JsonLootBags\ иначе игра не запуститься.
+0. есть проблема с модом GEN_NatureOverhaul-0.10.0(1.7.10).jar и 5_musiccraft-2.9.9.3.jar
+вызывает краш вида https://gist.github.com/41c1821b5688c0cf8ffb8d641ca9d378. у вас 3 варинта
+а) удалить 5_musiccraft-2.9.9.3.jar
+б) удалить GEN_NatureOverhaul-0.10.0(1.7.10).jar
+в) отредактировать natureoverhaul.cfg, ПОСЛЕ СОЗДАНИЯ МИРА И ВЫХОДА ИЗ НЕГО
+ищем(как исать не срашивать, в любом текстовом редакторе есть поиск) строчку в natureoverhaul.cfg вида:
+
+    # Add group on new line
+    S:"Sapling-Log-Leaves names in world: ТУ ИМЯ ВАШЕГО МИРА" <
+
+ находим чуть ниже строчки
+
+        musiccraft:sapling(0)-musiccraft:log(0)-musiccraft:leaves(8)
+        musiccraft:sapling(1)-minecraft:log(0)-minecraft:leaves(0)
+        musiccraft:sapling(2)-minecraft:log(0)-minecraft:leaves(0)
+        musiccraft:sapling(3)-minecraft:log(0)-minecraft:leaves(0)
+        musiccraft:sapling(4)-minecraft:log(0)-minecraft:leaves(8)
+        musiccraft:sapling(5)-minecraft:log(0)-minecraft:leaves(0)
+
+ и удаляем их
+ потом ищем I:=0 (найдёте 2 таких значения)
+        # [default: 0]
+        I:=0
+
+и тоже удаляем их.
+
+ВАЖНО!! потом все что получилось копируем и сохроняем в файле natureoverhaulBP.cfg(тоже бакап SL при запуске заменяет оригинальный natureoverhaul.cfg )
+это нужно для того что бы не редактировать каждый раз файл после закрытия игры.
+
+1. если удалили некоторые моды в сборке то удалите папку .minecraft\config\JsonLootBags\ иначе игра не запуститься.
 2. игру запускать с правами адиминистратора
-3. если у вас крашь игры вида: https://gist.github.com/0c0c62bc8a358bca4e4d6858407f8dab
+3. если у вас краш игры вида: https://gist.github.com/0c0c62bc8a358bca4e4d6858407f8dab
 то добавте папку с игрой в исключения антививруса что бы он не трогал файлы игры.
+4. если у вас в терминале AE2 трудно разлечимые цифры проверте установленые ресурс-папки
+должен быть установлен RUS-Minecraft-Portal.zip как на скриншоте тут http://i.imgur.com/Sk0peMb.png
+5. в корне игры должны лежать два файла options.txt(настройки,клавиши,рес-паки) и optionsKEY.txt(бекап), 
+SL при зпуске возвращаяет options.txt из бекапа, сделано для того что бы не сбивались клавиши при удалении модов.
+
