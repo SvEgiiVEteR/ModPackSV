@@ -19,4 +19,5 @@ https://yadi.sk/d/yFEdF8ZWqhac5
 4. FAQsborka факью по сборке
 5. options.txt конфиги сборки(клавиши)
 6. Changelog.txt история изминений
-  
+
+https://github.com/canton7/SyncTrayzor/releases  
