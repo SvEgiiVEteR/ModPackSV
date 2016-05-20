@@ -20,4 +20,7 @@ https://yadi.sk/d/yFEdF8ZWqhac5
 5. options.txt конфиги сборки(клавиши)
 6. Changelog.txt история изминений
 
-https://github.com/canton7/SyncTrayzor/releases  
+для загрузки актуланых модов и конифигов сборки нужна программа
+https://github.com/canton7/SyncTrayzor/releases
+качаем и пишем мне в чате канала сборки в телеграме:
+https://telegram.me/joinchat/CxH2Qj47jUxfJtEfXU-h9A
