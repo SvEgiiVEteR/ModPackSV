@@ -1,5 +1,12 @@
 sborkaSV
 
+для загрузки актуланых модов и конифигов сборки нужна программа 
+
+https://github.com/canton7/SyncTrayzor/releases 
+для её работы нужен Microsoft .NET Framework 4.5.2 
+
+качаем и пишем мне в чате канала сборки в телеграме: https://telegram.me/joinchat/CxH2Qj47jUxfJtEfXU-h9A
+
 Канал сборки с модами minecraft
 
 https://telegram.me/joinchat/CxH2Qj4TbNLzcv_-1LFCGg
@@ -19,9 +26,3 @@ https://yadi.sk/d/yFEdF8ZWqhac5
 4. FAQsborka факью по сборке
 5. options.txt конфиги сборки(клавиши)
 6. Changelog.txt история изминений
-
-для загрузки актуланых модов и конифигов сборки нужна программа
-https://github.com/canton7/SyncTrayzor/releases
-для её работы нужен Microsoft .NET Framework 4.5.2
-качаем и пишем мне в чате канала сборки в телеграме:
-https://telegram.me/joinchat/CxH2Qj47jUxfJtEfXU-h9A
