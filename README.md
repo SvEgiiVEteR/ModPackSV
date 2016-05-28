@@ -22,5 +22,6 @@ https://yadi.sk/d/yFEdF8ZWqhac5
 
 для загрузки актуланых модов и конифигов сборки нужна программа
 https://github.com/canton7/SyncTrayzor/releases
+для её работы нужен Microsoft .NET Framework 4.5.2
 качаем и пишем мне в чате канала сборки в телеграме:
 https://telegram.me/joinchat/CxH2Qj47jUxfJtEfXU-h9A
