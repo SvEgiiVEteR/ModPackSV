@@ -1,9 +1,9 @@
-корень Сборки - папка где лежат папки  ".minecraftSV" "settingsSET\" "settings\" и файл "MinecraftPortableCMD.bat"                 ||
+корень Сборки - папка где лежат папки  "minecraftSV" "settingsSET\" "settings\" и файл "MinecraftPortableCMD.bat"                 ||
 корень Игры - папка  .minecraft\                                                                                                 ||
 OL - Офицалный лаунчер                                                                                                           ||
 SL - Мой лаунчер(bat файл)                                                                                                       ||
-папка с крашами - \.minecraft\crash-reports\                                                                                     ||
-папка с логами - \.minecraft\logs\                                                                                               ||
+папка с крашами - \minecraftSV\crash-reports\                                                                                     ||
+папка с логами - \minecraftSV\logs\                                                                                               ||
 обычно нужен последний краш(crash-2016-04-17_20.36.58-client.txt) по дате и лог(fml-client-latest.log)                           ||
 GEN_CustomOreGen-1.7.10-1.2.24.jar - мод меняющий систему генерации руд(о его сравнении с ванилой в самом конце)                 ||
                                                                                                                                  ||
