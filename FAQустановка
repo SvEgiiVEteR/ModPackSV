@@ -1,0 +1,14 @@
+как установить сборку SyncTrayzor?
+
+1) создаёт на ПК в удобном месте 5 папко(конфиги,моды,корень,сервер,лайнчер) имена любые,главное что бы вам понятно было:
+допустим папки вот такие будут
+Configs\
+Launcher\
+Mods\
+Root\
+Server\
+2) копируем после скачивания через SyncTrayzor содержимое папки Launcher в удобнео вам место.например
+g:\MinecraftSBORKA\
+3) октрываем g:\MinecraftSBORKA\settings\SETTINGS.ini и меняем в 1 строчке путь к вашей JAVA и запускаем MinecraftPortableCMD.bat и следуем инстуркции.
+4) если игра запустися то выходим из неё и копируем конфиги в g:\MinecraftSBORKA\minecraftSV\config\ а моды в g:\MinecraftSBORKA\minecraftSV\mods\,
+а содержимоей папки корень копируем в minecraftSV(имя этой папки можно изменить во второй строчке g:\MinecraftSBORKA\settings\SETTINGS.ini если нужно )
