@@ -1,6 +1,7 @@
 sborkaSV
 
 для загрузки актуланых модов и конифигов сборки нужна программа:
+
 https://github.com/canton7/SyncTrayzor/releases качаем желательно SyncTrayzorPortable-x64(x32).zip         
 для её работы нужен Microsoft .NET Framework 4.5.2 
 
