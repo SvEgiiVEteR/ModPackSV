@@ -12,7 +12,7 @@ Server\
 g:\MinecraftSBORKA\ в пути не должно быть пробелов
 3)(УЖЕ необязательно)  октрываем g:\MinecraftSBORKA\settings\SETTINGS.ini и меняем в 1 строчке путь к вашей JAVA
 4) запускаем "Установить сборку.bat" читаем или жмём пару раз пробел.
-5) и запускаем MinecraftPortableCMD.bat и следуем инстуркции.озу ставим минималку 5900 максималку 7000
+5) и запускаем MinecraftPortableCMD.bat и следуем инстуркции.озу ставим минималку 5900 максималку 6500-7000
 6) (не запускать из 32 битного тотала командера)если игра запустилась то выходим из неё 
 7) смело удаляем содержимое папки g:\MinecraftSBORKA\minecraftSV\mods
 8) копируем конфиги в g:\MinecraftSBORKA\minecraftSV\config\ а моды в g:\MinecraftSBORKA\minecraftSV\mods\,
