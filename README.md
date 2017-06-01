@@ -1,5 +1,6 @@
 sborkaSV
-
+Лаунчер и инструкция перезжают сюда
+http://telegra.ph/Launcher-Client-and-Server-05-31
 для загрузки актуланых модов и конифигов сборки нужна программа:
 
 https://github.com/canton7/SyncTrayzor/releases качаем желательно SyncTrayzorPortable-x64(x32).zip         
