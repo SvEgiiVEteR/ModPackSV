@@ -23,9 +23,9 @@ https://telegram.me/joinchat/CxH2Qj4TbNLzcv_-1LFCGg
 3. ссылка на Портативную версию: https://desktop.telegram.org/ и web версия https://web.telegram.org/#/login
 4. скачать и установить РУССКИЙ можно в этом канале на любую платформу: https://telegram.me/teleblog
 
-Ссылка на лаунчер.может быть устаревшей:
+Ссылка на лаунчерй:
 
-https://yadi.sk/d/yFEdF8ZWqhac5
+https://yadi.sk/d/0zw7jdTY3Jf3BE
 
 1. FAQ факью по лаунчеру
 2. version.txt текущая версия сборки
