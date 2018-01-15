@@ -40,7 +40,7 @@ function FindProxyForURL(url, host) {
 
   for (var i = 0; i < curarr.length; i++) {
     if (oip === 1 || host === curarr[i]) {
-      return "SOCKS5 127.0.0.1:9050; SOCKS5 127.0.0.1:9050; DIRECT";
+      return "SOCKS5 127.0.0.1:9050; SOCKS 127.0.0.1:9050; DIRECT";
     }
   }
 
